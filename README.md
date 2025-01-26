@@ -36,6 +36,6 @@ A Python-based interactive visualization of the Breadth-First Search (BFS) algor
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nofoxtugiv/bfs-visualization.git
-   cd bfs-visualization
+   git clone https://github.com/NoFoxTuGiv/BFS-Visualizer.git
+   cd BFS-Visualizer
    ```
